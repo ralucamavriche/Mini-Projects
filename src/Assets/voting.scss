@@ -1,0 +1,40 @@
+.boxs{
+    width: 90%;
+    margin:auto;
+}
+.box{
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    padding: 30px 25px;
+    margin: 5px auto;
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+}
+
+.voteButton{
+    border:none;
+    outline: none;
+    background: antiquewhite;
+    cursor: pointer;
+    color: green;
+    font-size: 30px;
+    margin: auto;
+}
+
+.title{
+    font-size:50px;
+    margin: 30px 0px;
+}
+
+.votesCount{
+    font-size: 25px;
+    margin: auto;
+
+}
+
+.languagesTitle{
+    font-size: 25px;
+    margin: auto;
+
+}
