@@ -18,7 +18,8 @@ function App() {
         <div className="App" >
             <BrowserRouter>
                 <Switch>
-                    <Route exact path="/">
+                    <Route exact path="/Mini-Projects">
+                        <h1>Hei</h1>
                         <Main/>       
                     </Route>
                     <Route path="/carousel">
