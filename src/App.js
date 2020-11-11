@@ -19,10 +19,9 @@ function App() {
             <BrowserRouter>
                 <Switch>
                     <Route exact path="/Mini-Projects">
-                        <h1>Hei</h1>
                         <Main/>       
                     </Route>
-                    <Route path="/carousel">
+                    <Route path="/Mini-Projects/carousel">
                        
                         <CarouselComponents />
                     </Route>
