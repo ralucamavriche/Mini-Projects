@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-Mini-Projects DEMO [https://ralucamavriche.github.io/Mini-Projects/]
+Mini-Projects [DEMO](https://ralucamavriche.github.io/Mini-Projects/)
 
 ## Available Scripts
 
