@@ -1,4 +1,4 @@
-Mini-Projects [DEMO](https://ralucamavriche.github.io/Mini-Projects/)
+Mini-Projects [DEMO](https://mini-projects-in-react.netlify.app/)
 
 ## Available Scripts
 
