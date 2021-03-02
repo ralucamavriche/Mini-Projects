@@ -1,4 +1,8 @@
-Mini-Projects [DEMO](https://mini-projects-in-react.netlify.app/)
+Mini Projects [DEMO](https://mini-projects-in-react.netlify.app/)
+</br>
+
+This application contains several smaller projects made in React.
+</br>
 
 ## Available Scripts
 
@@ -66,6 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Mini-Projects
-# Mini-Projects
-# Mini-Projects
+
