@@ -1,8 +1,8 @@
 {
+  "homepage": "https://ralucamavriche.github.io/Mini-Projects/",
   "name": "learn-react-mini-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ralucamavriche.github.io/Mini-Projects/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",

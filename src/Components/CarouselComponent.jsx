@@ -4,7 +4,7 @@ import { Carousel } from 'react-responsive-carousel';
 
 export default function CarouselComponent() {
     return (
-        <div style={{width:'500px', margin:'auto', backgroundSize:'container'}}>
+        <div style={{ width: '500px', margin: 'auto', backgroundSize: 'container' }}>
             <Carousel>
                 <div>
                     <img src='https://emerging-europe.com/wp-content/uploads/2019/03/bigstock-gorgeous-spring-countryside-la-280866130-990x556.jpg' alt="Romania" />
@@ -27,3 +27,4 @@ export default function CarouselComponent() {
         </div>
     )
 }
+
