@@ -1,9 +1,8 @@
 Mini Projects [DEMO](https://mini-projects-in-react.netlify.app/)
-</br>
+<br/>
 
 This application contains several smaller projects made in React.
-</br>
-</br>
+<br/>
 
 ## Available Scripts
 
